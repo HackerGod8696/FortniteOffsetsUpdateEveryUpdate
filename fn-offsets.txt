@@ -20,8 +20,8 @@ Engine::Actor::RootComponent: 0x130
 Engine::Character::Mesh: 0x280
 Engine::SceneComponent::RelativeLocation: 0x11C
 Engine::SceneComponent::ComponentVelocity: 0x140
-Engine::StaticMeshComponent::StaticMesh: 0x478
-Engine::SkinnedMeshComponent::CachedWorldSpaceBounds: 0x5F8
+Engine::StaticMeshComponent::StaticMesh: 0x480
+Engine::SkinnedMeshComponent::CachedWorldSpaceBounds: 0x600
 Engine::Actor::CustomTimeDilation: 0x98
 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTimeVerified: 0x8F0
 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTime: 0x8EC
@@ -54,3 +54,5 @@ FortniteGame::FortRangedWeaponStats::MinSpeedForSpreadMultiplier: 0x174
 FortniteGame::FortRangedWeaponStats::MaxSpeedForSpreadMultiplier: 0x178
 FortniteGame::BuildingContainer::bAlreadySearched: 0xC41
 Offsets::Engine::Controller::RemoteViewPitch: 0x232
+FortniteGame::BuildingWeakSpot::bActive: 0x238
+Engine::World::Levels: 0x138
