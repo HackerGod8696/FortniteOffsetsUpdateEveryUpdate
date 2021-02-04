@@ -1,1 +1,2 @@
-# fn-offsets
+# FortniteOffsetsUpdateEveryUpdate
+Support: https://discord.gg/DAJGvGNzr8
