@@ -1,6 +1,6 @@
 ------------------Offstes-------------------------------              
 
-		UWorld = 0x9BA92D0
+UWorld = 0x9BAA2D0
 OwningGameInstance = 0x180
 Levels = 0x138
 AActors = 0x98
